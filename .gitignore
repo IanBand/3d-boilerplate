@@ -1,0 +1,8 @@
+lib/irrlicht-1.8.5/*
+!lib/irrlicht-1.8.5/.gitkeep 
+
+lib/gca-plus/*
+!lib/gca-plus/.gitkeep
+
+bin/*
+!bin/.gitkeep
